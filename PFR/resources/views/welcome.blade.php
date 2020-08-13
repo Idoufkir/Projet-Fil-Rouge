@@ -9,7 +9,7 @@
     <!-- Add Your favicon here -->
     <!--<link rel="icon" href="img/favicon.ico">-->
 
-    <title>Universe CRM</title>
+    <title>Universe CRM | Home</title>
 
     <!-- Bootstrap core CSS -->
     <link href="welcom/css/bootstrap.min.css" rel="stylesheet">
@@ -48,6 +48,7 @@
                         <li><a href="#features">Features</a></li>
                         <li><a href="#contact">Contact</a></li>
                         <li><a href="/login">LogIn</a></li>
+                        <li><a href="/register">SingIn</a></li>
                     </ul>
                 </div>
             </div>
@@ -85,7 +86,7 @@
                 <div class="carousel-caption blank">
                     <h1>We create meaningful <br/> interfaces that inspire.</h1>
                     <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam.</p>
-                    <p><a class="btn btn-lg btn-primary" href="#" role="button">Registre Now</a></p>
+                    <p><a class="btn btn-lg btn-primary" href="/login" role="button">Registre Now</a></p>
                 </div>
             </div>
             <!-- Set background for slide in css -->
@@ -248,13 +249,13 @@
                 <div class="team-member">
                     <img src="welcom/img/avatar3.png" class="img-responsive img-circle img-small" alt="">
                     <h4><span class="navy">Mohammed Amine</span> BETTAOUI</h4>
-                    <p>Lorem ipsum dolor sit amet, illum fastidii dissentias quo ne. Sea ne sint animal iisque, nam an soluta sensibus. </p>
+                    <p>apprenant YouCode Safi <br>Lorem ipsum dolor sit amet, illum fastidii dissentias quo ne. Sea ne sint animal iisque, nam an soluta sensibus. </p>
                     <ul class="list-inline social-icon">
-                        <li><a href="#"><i class="fa fa-github"></i></a>
+                        <li><a target="_blank" href="https://github.com/Mohammed1Dev"><i class="fa fa-github"></i></a>
                         </li>
-                        <li><a href="#"><i class="fa fa-facebook"></i></a>
+                        <li><a target="_blank" href="#"><i class="fa fa-linkedin"></i></a>
                         </li>
-                        <li><a href="#"><i class="fa fa-linkedin"></i></a>
+                        <li><a target="_blank" href="#"><i class="fa fa-twitter"></i></a>
                         </li>
                     </ul>
                 </div>
@@ -270,13 +271,13 @@
                 <div class="team-member">
                     <img src="welcom/img/avatar2.png" class="img-responsive img-circle img-small" alt="">
                     <h4><span class="navy">Mustafa</span> IDOUFKIR</h4>
-                    <p>Lorem ipsum dolor sit amet, illum fastidii dissentias quo ne. Sea ne sint animal iisque, nam an soluta sensibus.</p>
+                    <p>apprenant YouCode Safi <br>Lorem ipsum dolor sit amet, illum fastidii dissentias quo ne. Sea ne sint animal iisque, nam an soluta sensibus.</p>
                     <ul class="list-inline social-icon">
-                        <li><a href="#"><i class="fa fa-github"></i></a>
+                        <li><a target="_blank" href="https://github.com/Idoufkir"><i class="fa fa-github"></i></a>
                         </li>
-                        <li><a href="#"><i class="fa fa-google"></i></a>
+                        <li><a target="_blank" href="#"><i class="fa fa-linkedin"></i></a>
                         </li>
-                        <li><a href="#"><i class="fa fa-linkedin"></i></a>
+                        <li><a target="_blank" href="https://twitter.com/MustafaIdoufkir"><i class="fa fa-twitter"></i></a>
                         </li>
                     </ul>
                 </div>
@@ -301,10 +302,10 @@
         <div class="row m-b-lg">
             <div class="col-lg-3 col-lg-offset-3">
                 <address>
-                    <strong><span class="navy">Company name, Inc.</span></strong><br/>
+                    <strong><span class="navy">Univers CRM, Inc.</span></strong><br/>
                     795 Folsom Ave, Suite 600<br/>
-                    San Francisco, CA 94107<br/>
-                    <abbr title="Phone">P:</abbr> (123) 456-7890
+                    Safi, MA 46100<br/>
+                    <abbr title="Phone">P : </abbr> (212) 653-438635
                 </address>
             </div>
             <div class="col-lg-4">
@@ -331,7 +332,7 @@
         </div>
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 text-center m-t-lg m-b-lg">
-                <p class="ibox-footer"><strong>&copy; <script>document.write(new Date().getFullYear())</script> Universe CRM</strong><br/> PFR de la Promotion 2019 du référentiel développement web | YouCode Safi.</p>
+                <p class="ibox-footer"><strong>&copy; <script>document.write(new Date().getFullYear())</script> Univers CRM</strong><br/> PFR de la Promotion 2019 du référentiel développement web | YouCode Safi.</p>
             </div>
         </div>
     </div>
