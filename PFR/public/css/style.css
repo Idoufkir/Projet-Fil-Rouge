@@ -11,6 +11,18 @@
   src: url('../fonts/glyphicons-halflings-regular.eot');
   src: url('../fonts/glyphicons-halflings-regular.eot?#iefix') format('embedded-opentype'), url('../fonts/glyphicons-halflings-regular.woff2') format('woff2'), url('../fonts/glyphicons-halflings-regular.woff') format('woff'), url('../fonts/glyphicons-halflings-regular.ttf') format('truetype'), url('../fonts/glyphicons-halflings-regular.svg') format('svg');
 }
+button{
+  float: right;
+    background-color: white;
+    margin-right: -6px;
+    border: none;
+}
+button:hover{
+  cursor: pointer;
+}
+button i{
+  color: #337ab7;
+}
 .glyphicon {
   position: relative;
   top: 1px;
@@ -9505,6 +9517,15 @@ body.md-skin {
     transition: background-color 500ms linear;
     background-color: #f3f3f4;
   }
+}
+.images{
+  width: 100px;
+  border: 1px solid;
+  border-radius: 50%;
+}
+.center-blocks{
+  margin-left: auto;
+  margin-right: auto;
 }
 @media (max-width: 350px) {
   .timeline-item .date {

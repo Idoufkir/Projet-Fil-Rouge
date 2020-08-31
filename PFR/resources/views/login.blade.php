@@ -28,17 +28,36 @@
             </div>
             <h3>Welcome to Univers CRM</h3>
             <p>Login in. To see it in action.</p>
-            <form class="m-t" role="form" action="index.html">
+            <form class="m-t" role="form" method="POST" action="{{ route('login') }}">
+                @csrf
                 <div class="form-group">
-                    <input type="email" class="form-control" placeholder="E-mail" required="">
+                    <input  placeholder="E-mail"  id="email" type="email" class="form-control @error('email') is-invalid @enderror" name="email" value="{{ old('email') }}" required autocomplete="email" autofocus>
+                    @error('email')
+                    <span class="invalid-feedback" role="alert">
+                        <strong>{{ $message }}</strong>
+                    </span>
+                @enderror
                 </div>
                 <div class="form-group">
-                    <input type="password" class="form-control" placeholder="Password" required="">
+                    <input  placeholder="Password" id="password" type="password" class="form-control @error('password') is-invalid @enderror" name="password" required autocomplete="current-password">
+                @error('password')
+                    <span class="invalid-feedback" role="alert">
+                        <strong>{{ $message }}</strong>
+                    </span>
+                @enderror
                 </div>
-                <button type="submit" class="btn btn-primary block full-width m-b">Login</button>
-
-                <a href="#"><small>Forgot password?</small></a>
-                <p class="text-muted text-center"><small>Do not have an account?</small></p>
+                <div class="form-group">
+                    <input class="form-check-input" type="checkbox" name="remember" id="remember" {{ old('remember') ? 'checked' : '' }}>
+                                    <label class="form-check-label" for="remember">
+                                        {{ __('Remember Me') }}
+                                    </label>
+                </div>
+                <button type="submit" class="btn btn-primary block full-width m-b"> {{ __('Login') }}</button>
+                @if (Route::has('password.request'))
+                <a class="btn btn-link" href="{{ route('password.request') }}">
+                    {{ __('Forgot Your Password?') }}
+                </a>
+            @endif
                 <a class="btn btn-sm btn-white btn-block" href="/register">Create an account</a>
             </form>
             <div class="col-lg-12 col-lg-offset-2 text-center m-t-lg m-b-lg">

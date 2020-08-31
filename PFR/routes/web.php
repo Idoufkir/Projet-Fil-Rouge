@@ -1,5 +1,6 @@
 <?php
 
+use Illuminate\Support\Facades\Auth;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -20,7 +21,13 @@ Route::get('/', function () {
 Route::get('/login', function () {
     return view('login');
 });
+// Route::get('/Deals','HomeController@index')->name('index')->middleware('auth');
 
 Route::get('/register', function () {
     return view('register');
 });
+Route::resource('/Facture','FactureController')->middleware('auth');
+Auth::routes();
+Route::get('/home','HomeController@index')->name('home');
+Route::get('/Profils','ProfilsController@index')->name('Profils');
+Route::resource('/ProfilsEdit','PrfilseditController')->middleware('auth');

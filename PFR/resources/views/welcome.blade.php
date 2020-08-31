@@ -50,6 +50,7 @@
                         <li><a href="/login">LogIn</a></li>
                         <li><a href="/register">SingIn</a></li>
                     </ul>
+                    
                 </div>
             </div>
         </nav>
