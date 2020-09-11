@@ -574,7 +574,7 @@
                 <div class="col-sm-8">
                     <div class="ibox">
                         <div class="ibox-content">
-                            <span class="text-muted small float-right">Last modification: <i class="fa fa-clock-o"></i> 2:10 pm - 12.06.2014</span>
+                            <span class="text-muted small float-right">Last modification: <i class="fa fa-clock-o"></i> 2:10 pm - 12.09.2020</span>
                             <h2>Clients</h2>
                             <p>
                                 All clients need to be verified before you can send email and set a project.

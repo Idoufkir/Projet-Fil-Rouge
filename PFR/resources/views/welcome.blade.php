@@ -85,8 +85,8 @@
         <div class="item">
             <div class="container">
                 <div class="carousel-caption blank">
-                    <h1>We create meaningful <br/> interfaces that inspire.</h1>
-                    <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam.</p>
+                    <h1>There’s a better  <br/> way to grow.</h1>
+                    <p>Get started with FREE tools, and upgrade as you grow.</p>
                     <p><a class="btn btn-lg btn-primary" href="/login" role="button">Registre Now</a></p>
                 </div>
             </div>
@@ -135,15 +135,15 @@
         <div class="col-lg-12 text-center">
             <div class="navy-line"></div>
             <h1>Over 40+ unique view<br/> <span class="navy"> with many custom components</span> </h1>
-            <p>Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. </p>
+            <p>Everything you need to organize, track, and build better relationships with leads and customers. Yes, it's 100% free. Forever. </p>
         </div>
     </div>
     <div class="row">
         <div class="col-md-3 text-center wow fadeInLeft">
             <div>
-                <i class="fa fa-mobile features-icon"></i>
-                <h2>Full responsive</h2>
-                <p>Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. Nullam id dolor id nibh ultricies vehicula ut id elit. Morbi leo risus.</p>
+                <i class="fa fa-share-alt features-icon"></i>
+                <h2>Free CRM</h2>
+                <p>Everything you need to organize, track, and build better relationships with leads and customers. Yes, it's 100% free. Forever.</p>
             </div>
             <div class="m-t-lg">
                 <i class="fa fa-bar-chart features-icon"></i>
@@ -176,9 +176,10 @@
     </div>
     <div class="row features-block">
         <div class="col-lg-6 features-text wow fadeInLeft">
-            <small>INSPINIA</small>
-            <h2>Perfectly designed </h2>
-            <p>INSPINIA Admin Theme is a premium admin dashboard template with flat design concept. It is fully responsive admin dashboard template built with Bootstrap 3+ Framework, HTML5 and CSS3, Media query. It has a huge collection of reusable UI components and integrated with latest jQuery plugins.</p>
+            <small>Univers CRM</small>
+            <h2>customers in over 120 countries growing their businesses with UCRM</h2>
+            <p>You don't have to go it alone. Master the inbound methodology and get the most out of your tools with HubSpot's legendary customer support team and a community of thousands of marketing and sales pros just like you.
+            </p>
             <a href="" class="btn btn-primary">Learn more</a>
         </div>
         <div class="col-lg-6 text-right wow fadeInRight">
@@ -254,9 +255,9 @@
                     <ul class="list-inline social-icon">
                         <li><a target="_blank" href="https://github.com/Mohammed1Dev"><i class="fa fa-github"></i></a>
                         </li>
-                        <li><a target="_blank" href="#"><i class="fa fa-linkedin"></i></a>
+                        <li><a target="_blank" href="https://www.linkedin.com/in/mohammed-amine-bettaoui-97273a193"><i class="fa fa-linkedin"></i></a>
                         </li>
-                        <li><a target="_blank" href="#"><i class="fa fa-twitter"></i></a>
+                        <li><a target="_blank" href="https://twitter.com/AmineBettaoui"><i class="fa fa-twitter"></i></a>
                         </li>
                     </ul>
                 </div>
@@ -276,7 +277,7 @@
                     <ul class="list-inline social-icon">
                         <li><a target="_blank" href="https://github.com/Idoufkir"><i class="fa fa-github"></i></a>
                         </li>
-                        <li><a target="_blank" href="#"><i class="fa fa-linkedin"></i></a>
+                        <li><a target="_blank" href="https://www.linkedin.com/in/idoufkir"><i class="fa fa-linkedin"></i></a>
                         </li>
                         <li><a target="_blank" href="https://twitter.com/MustafaIdoufkir"><i class="fa fa-twitter"></i></a>
                         </li>
@@ -304,14 +305,14 @@
             <div class="col-lg-3 col-lg-offset-3">
                 <address>
                     <strong><span class="navy">Univers CRM, Inc.</span></strong><br/>
-                    795 Folsom Ave, Suite 600<br/>
+                    79 Kennedy Ave, Suite 16<br/>
                     Safi, MA 46100<br/>
-                    <abbr title="Phone">P : </abbr> (212) 653-438635
+                    <abbr title="Phone">P : </abbr> +(212) 0653-438635
                 </address>
             </div>
             <div class="col-lg-4">
                 <p class="text-color">
-                    Consectetur adipisicing elit. Aut eaque, totam corporis laboriosam veritatis quis ad perspiciatis, totam corporis laboriosam veritatis, consectetur adipisicing elit quos non quis ad perspiciatis, totam corporis ea,
+                    There's this notion that to grow a business, you have to be ruthless. But we know there's a better way to grow. We believe businesses can grow with a conscience, and succeed with a soul — and that they can do it with inbound. 
                 </p>
             </div>
         </div>
