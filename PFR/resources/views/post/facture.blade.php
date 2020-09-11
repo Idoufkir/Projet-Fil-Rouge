@@ -98,15 +98,21 @@
                     <div class="form-group row">
                       <label for="" class="col-3 col-form-label">Manager Name</label> 
                       <div class="col-5">
-                        <input id="" name="ID_manager" type="text" class="form-control">
+                          {{-- {{dd(Auth::user()->name)}} --}}
+                        <input id="" name="ID_manager" type="text" class="form-control" value="{{ Auth::user()->name }}">
                       </div>
                     </div>
                     <div class="form-group row">
-                      <label for="" class="col-3 col-form-label">Client Name</label> 
-                      <div class="col-5">
-                        <input id="" name="ID_client" type="text" class="form-control">
+                        <label for="" class="col-3 col-form-label">Client Name</label> 
+                        <div class="col-5">
+                          <select id="" name="ID_client" required="required" class="custom-select">
+                              {{-- <option>client name</option> --}}
+                            @foreach ($username as $item)
+                        <option value="{{$item->name}}">{{$item->name}}</option>
+                            @endforeach
+                          </select>
+                        </div>
                       </div>
-                    </div>
                     <div class="form-group row">
                       <label for="" class="col-3 col-form-label">Provider Or Company</label> 
                       <div class="col-5">

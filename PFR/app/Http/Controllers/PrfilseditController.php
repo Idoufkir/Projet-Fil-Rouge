@@ -80,7 +80,7 @@ class PrfilseditController extends Controller
     $post = User::findOrFail($id);
     if($count == 0){
     $post->name = $request->input('name');
-    $post->Desc = $request->input('Desc');
+    $post->description = $request->input('Desc');
         if ($request->hasfile('image')){
             $path =   $request->file('image')->store('User');
             $image = new Image(['path' => $path]);
@@ -91,7 +91,7 @@ class PrfilseditController extends Controller
           }
     }else{
     $post->name = $request->input('name');
-    $post->Desc = $request->input('Desc');
+    $post->description = $request->input('Desc');
         if ($request->hasfile('image')){
             $path =  $request->file('image')->store('User');
             $image = Image::where("user_id",$id)->firstorFail();

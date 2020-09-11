@@ -7,7 +7,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
     <!-- Add Your favicon here -->
-    <!--<link rel="icon" href="img/favicon.ico">-->
+    <link rel="icon" href="img/favicon.ico">
 
     <title>Universe CRM | Home</title>
 

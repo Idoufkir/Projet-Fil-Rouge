@@ -156,7 +156,7 @@
         
         
         </div>
-            <div class="footer" style="text-align: center"><strong>&copy; <script>document.write(new Date().getFullYear())</script> Univers CRM</strong><br/> PFR de la Promotion 2019 du référentiel développement web | YouCode Safi.
+            <div class="footer absolute" style="text-align: center"><strong>&copy; <script>document.write(new Date().getFullYear())</script> Univers CRM</strong><br/> PFR de la Promotion 2019 du référentiel développement web | YouCode Safi.
             </div>        
         </div>
 

@@ -16,7 +16,7 @@ class ProfilsController extends Controller
      */
     public function index()
     {
-        $user = DB::table('users')->leftJoin('images','images.user_id','=','users.id')->select('images.path','users.id','users.Desc','users.created_at','users.name')->where('users.id',Auth::user()->id)->get();
+        $user = DB::table('users')->leftJoin('images','images.user_id','=','users.id')->select('images.path','users.id','users.description','users.created_at','users.name')->where('users.id',Auth::user()->id)->get();
         // $user  = User::where("id",Auth::user()->id)->firstorFail();
         return view("Profils.Profilsuser",["User"=>$user]);
     }

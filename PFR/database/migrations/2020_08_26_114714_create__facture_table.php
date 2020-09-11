@@ -13,7 +13,7 @@ class CreateFactureTable extends Migration
      */
     public function up()
     {
-        Schema::create('facture', function (Blueprint $table) {
+        Schema::create('factures', function (Blueprint $table) {
             $table->id();
             $table->string('Subject',150);
             $table->text('Desc');
@@ -21,7 +21,7 @@ class CreateFactureTable extends Migration
             $table->unsignedBigInteger('ID_client');
             $table->foreign('ID_manager')->references('id')->on('users');
             $table->foreign('ID_client')->references('id')->on('users');
-            $table->string('Provider or company',150);
+            $table->string('fonction',150);
             $table->string('Status',150);
             $table->timestamps();
         });
@@ -34,6 +34,6 @@ class CreateFactureTable extends Migration
      */
     public function down()
     {
-        Schema::dropIfExists('facture');
+        Schema::dropIfExists('factures');
     }
 }

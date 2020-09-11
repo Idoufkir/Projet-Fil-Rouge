@@ -19,7 +19,8 @@ class FactureController extends Controller
      */
     public function index()
     {
-        return view('post.facture');
+        $username = DB::table('users')->select('id','name')->where('users.function','provider')->get();
+        return view('post.facture',['username'=>$username]);
     }
 
     /**
@@ -42,7 +43,7 @@ class FactureController extends Controller
     {
         // dd("hello");
         $data = $request->only(['Subject','Desc','fonction','Status','ID_client','ID_manager']);
-        $post = DB::table('users')->select('id')->where('users.name',$data['ID_client'])->get();
+        $post = DB::table('users')->select('id','name')->where('users.name',$data['ID_client'])->get();
         $user = Auth::user();
         $data["ID_manager"] = $user->id;
         $data["ID_client"] = $post[0]->id;

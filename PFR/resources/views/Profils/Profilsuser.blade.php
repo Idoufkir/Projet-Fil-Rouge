@@ -120,7 +120,7 @@
                                     </strong>
 
                                     <p>
-                                       {{$item->Desc}}
+                                       {{$item->description}}
                                     </p>
                                     <a href="{{route('ProfilsEdit.edit',$item->id)}}" class="btn btn-primary btn-sm btn-block"><i
                                             class="fa fa-envelope"></i> Edit Profils
