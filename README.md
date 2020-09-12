@@ -35,6 +35,8 @@ Generate a new application key
 
     php artisan key:generate
 
+Create MySQL database. name : "univers_crm"
+
 Run the database migrations (**Set the database connection in .env before migrating**)
 
     php artisan migrate
