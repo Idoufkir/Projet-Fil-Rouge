@@ -99,6 +99,11 @@ You can now access the server at http://localhost:8000
 ![create Deals](https://user-images.githubusercontent.com/57219106/92982519-667d9780-f496-11ea-8f9a-c1f2089bdfc3.gif)
 
 
+## Contributors
+
+This project exists thanks to all the people who contribute. [[Contribute](CONTRIBUTING.md)].
+<a href="https://github.com/Idoufkir/Projet-Fil-Rouge/graphs/contributors"></a>
+
 
 
 
