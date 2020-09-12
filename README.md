@@ -80,8 +80,7 @@ You can now access the server at http://localhost:8000
 
 ----------
 ## Screenshot
-1. Home page
-!(https://user-images.githubusercontent.com/57219106/92979008-5612f000-f489-11ea-80de-55fda91a707a.jpg)
+![#### Home page](https://user-images.githubusercontent.com/57219106/92979008-5612f000-f489-11ea-80de-55fda91a707a.jpg)
 
 (https://user-images.githubusercontent.com/57219106/92979028-5ca16780-f489-11ea-9c03-84f44206124d.jpg)
 
