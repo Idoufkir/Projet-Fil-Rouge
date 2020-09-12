@@ -3,8 +3,8 @@ Projet fil rouge de la promotion YouCode Safi 2019 sur le référentiel Dévelop
 
 
 
-[![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/) [![GitHub stars](https://img.shields.io/github/stars/Idoufkir/Projet-Fil-Rouge.svg)](https://github.com/Idoufkir/Projet-Fil-Rouge/stargazers) [![GitHub license](https://img.shields.io/github/license/Idoufkir/laravel-realworld-example-app.svg)](https://raw.githubusercontent.com/Idoufkir/Projet-Fil-Rouge/master/LICENSE) [![GitHub watchers](https://img.shields.io/github/watchers/badges/shields.svg?style=social&label=Watch&style=plastic)]() <br>
-[![Twitter Follow](https://img.shields.io/twitter/follow/MustafaIdoufkir.svg?style=social)](https://twitter.com/MustafaIdoufkir) <br>
+[![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/) [![GitHub stars](https://img.shields.io/github/stars/Idoufkir/Projet-Fil-Rouge.svg)](https://github.com/Idoufkir/Projet-Fil-Rouge/stargazers) [![GitHub license](https://img.shields.io/github/license/Idoufkir/laravel-realworld-example-app.svg)](https://raw.githubusercontent.com/Idoufkir/Projet-Fil-Rouge/master/LICENSE) [![GitHub watchers](https://img.shields.io/github/watchers/badges/shields.svg?style=social&label=Watch&style=plastic)]() <br><br><br>
+[![Twitter Follow](https://img.shields.io/twitter/follow/MustafaIdoufkir.svg?style=social)](https://twitter.com/MustafaIdoufkir) <br><br>
 [![Twitter Follow](https://img.shields.io/twitter/follow/AmineBettaoui.svg?style=social)](https://twitter.com/AmineBettaoui) 
 
 ----------
