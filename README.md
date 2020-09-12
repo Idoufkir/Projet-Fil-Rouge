@@ -80,14 +80,16 @@ You can now access the server at http://localhost:8000
 
 ----------
 ## Screenshot
+#### Home page
+
 ![Home page](https://user-images.githubusercontent.com/57219106/92979008-5612f000-f489-11ea-80de-55fda91a707a.jpg)
 
 ![Home page](https://user-images.githubusercontent.com/57219106/92979028-5ca16780-f489-11ea-9c03-84f44206124d.jpg)
-
+#### contact
 ![contact](https://user-images.githubusercontent.com/57219106/92979037-60cd8500-f489-11ea-8e0e-a3c61cae82af.jpg)
-
+#### Register
 ![Registre](https://user-images.githubusercontent.com/57219106/92979041-632fdf00-f489-11ea-8140-6d3ee10525f0.jpg)
-
+#### Login
 ![Login](https://user-images.githubusercontent.com/57219106/92979042-64610c00-f489-11ea-937f-b4f2056a1d7a.jpg)
 
 #### Create Deals
