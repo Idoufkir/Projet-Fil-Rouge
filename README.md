@@ -102,6 +102,7 @@ You can now access the server at http://localhost:8000
 
 
 ----------
+
 📫 Contact Us: <br>
 
 #### IDOUFKIR Mustafa
@@ -115,6 +116,12 @@ You can now access the server at http://localhost:8000
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/mohammed-amine-bettaoui-97273a193)
 
 ----------
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
+
+----------
+
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 * [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
