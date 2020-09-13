@@ -116,10 +116,12 @@ You can now access the server at http://localhost:8000
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/mohammed-amine-bettaoui-97273a193)
 
 ----------
-
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
 
+[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
+
+- **[MIT license](http://opensource.org/licenses/mit-license.php)**
+- Copyright 2020 © <a href="https://github.com/Idoufkir" target="_blank">Idoufkir</a>.
 ----------
 
 <!-- ACKNOWLEDGEMENTS -->
