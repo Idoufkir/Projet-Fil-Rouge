@@ -127,6 +127,7 @@ You can now access the server at http://localhost:8000
 
 <img src="https://heroku-badge.herokuapp.com/?app=heroku-badge" />
 - Heroku.
+
 ----------
 
 <!-- ACKNOWLEDGEMENTS -->
