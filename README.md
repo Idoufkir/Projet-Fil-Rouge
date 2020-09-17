@@ -125,7 +125,7 @@ You can now access the server at http://localhost:8000
 ----------
 ### Deployment:
 
-![example badge](badges/succeeded.svg)
+<img src="https://heroku-badge.herokuapp.com/?app=heroku-badge" />
 - Heroku.
 ----------
 
