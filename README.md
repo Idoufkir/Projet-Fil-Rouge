@@ -123,6 +123,11 @@ You can now access the server at http://localhost:8000
 - **[MIT license](http://opensource.org/licenses/mit-license.php)**
 - Copyright 2020 © <a href="https://github.com/Idoufkir" target="_blank">Idoufkir</a>.
 ----------
+### Deployment:
+
+![example badge](badges/succeeded.svg)
+- Heroku.
+----------
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
